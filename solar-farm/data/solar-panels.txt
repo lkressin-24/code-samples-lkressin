@@ -1,0 +1,2 @@
+1&&Main&&1&&1&&2020&&MULTICRYSTALLINE_SILICON&&true
+3&&Upper Hill&&4&&4&&2018&&CADMIUM_TELLURIDE&&false
